@@ -24,3 +24,6 @@ One of the most exciting aspects of this project is its ability to predict futur
 
 Explore the Super Store Sales Power BI Dashboard to gain actionable insights into your sales data and make data-driven decisions to boost your business in 2023.
 
+Contact
+For any questions or feedback, feel free to reach out via [rehanshaikh02269@gmail.com].
+
